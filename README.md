@@ -1,5 +1,6 @@
+<img style="margin-top: 20px;" align="right" width="284px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03MWtteGVuc2kxdjFpZDQ3YTVmNTdyejl1MW5pbW1ocXBlZXk2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif">
+
 # Oiee, seja bem vindo(a)  <a href="https://github.com/analuizafl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03MWtteGVuc2kxdjFpZDQ3YTVmNTdyejl1MW5pbW1ocXBlZXk2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif">
 
 <!-- Dados persoais -->
 #### Me chamo Ana Luiza
