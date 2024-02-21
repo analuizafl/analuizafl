@@ -5,8 +5,9 @@
 <!-- Dados persoais -->
 #### Me chamo Ana Luiza
 - Tenho :one: :seven: anos.
-- 💻 Estudante. Curso: Tecnico em desenvolvimento de sitemas.
-- 💡Venha me conhecer um pouco mais
+- ↪️  Estou cursando: Técnico em desenvolvimento de sitemas 💡 💻 (na proz).
+-  ⭐ Nível intermediário.
+- Venha me conhecer um pouco mais : )
 
 ## Tecnologias 💻 <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 <div style="display: inline_block; margin-top: -10px;">
