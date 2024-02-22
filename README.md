@@ -5,7 +5,7 @@
 <!-- Dados persoais -->
 #### Me chamo Ana Luiza
 - Tenho :one: :seven: anos.
-- ↪️  Estou cursando: Técnico em desenvolvimento de sitemas 💻 (na proz).
+- ↪️  Estou cursando: Técnico em desenvolvimento de sitemas (na proz)  💻.
 -  ⭐ Nível intermediário.
 - Venha me conhecer um pouco mais : )
 
