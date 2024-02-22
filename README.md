@@ -19,4 +19,3 @@
 </div><br/>
   <br>
 
-![analuizafl GitHub stats](https://github-readme-stats.vercel.app/api?username=analuizafl&show_icons=true&theme=radical)
