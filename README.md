@@ -1,11 +1,12 @@
 <img style="margin-top: 20px;" align="right" width="249px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03MWtteGVuc2kxdjFpZDQ3YTVmNTdyejl1MW5pbW1ocXBlZXk2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif">
 
 # Olá, seja bem vindo(a) 
-<!-- Dados persoais -->
+<!-- Dados pessoais -->
 #### Me chamo Ana Luiza
-- Tenho :one: :seven: anos.
-- ↪️  Estou cursando: Técnico em desenvolvimento de sitemas (na proz) 💻 .
--  ⭐ Nível intermediário.
+- Tenho 19 anos.
+- ✅ Concluí o curso Técnico em Desenvolvimento de Sistemas (na Proz Educação) 💻.
+-  Atualmente cursando Tecnologia da Informação na Estácio.
+- ⭐ Nível intermediário.
 - Venha me conhecer um pouco mais : )
 
 ## Tecnologias que mais uso 💻 <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
@@ -21,3 +22,4 @@
 ![analuizafl GitHub stats](https://github-readme-stats.vercel.app/api?username=analuizafl&show_icons=true&theme=radical)
 
  <a href="https://github.com/analuizafl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
