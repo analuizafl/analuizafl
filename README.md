@@ -7,8 +7,8 @@
 - ✅ Concluí o curso Técnico em Desenvolvimento de Sistemas (na Proz Educação) 💻.
 -  Atualmente cursando Tecnologia da Informação na Estácio.
 - ⭐ Nível intermediário.
-- Venha me conhecer um pouco mais : )
-
+- Criando códigos com linguagens de programação.
+  
 ## Tecnologias que mais uso 💻 <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 <div style="display: inline_block; margin-top: -10px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
